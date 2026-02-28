@@ -1,3 +1,6 @@
+streamlit run app.py for test
+
+
 ### 🧠 About model.h5  
 
 ---

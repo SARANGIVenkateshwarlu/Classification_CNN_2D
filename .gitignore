@@ -2,4 +2,5 @@
 Data/
 .venv/          
 __pycache__/
-.env            
+.env 
+kt_dir       
